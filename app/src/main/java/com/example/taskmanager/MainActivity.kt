@@ -38,7 +38,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-//test
+//test1
 @Composable
 fun SetUp() {
     CompletedImg(stringResource(R.string.tasks_comp), stringResource(R.string.nice), imagepainter = painterResource(R.drawable.ic_task_completed))
